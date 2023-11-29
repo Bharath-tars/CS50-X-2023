@@ -1,5 +1,5 @@
 import os
-
+#import CS50 lib for importing SQL module out of it
 from cs50 import SQL
 from flask import Flask, flash, jsonify, redirect, render_template, request, session
 
